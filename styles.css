@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+  background: url(http://wallpapercave.com/wp/WFTMul0.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: auto;
+}
+
+html {
+  height: 100%;
+}
+
+img {
+  position: absolute;
+}
+
+#header, #quote, #cpy {
+  color: whitesmoke;
+  text-shadow: 0px 0px 15px grey;
+}
+
+#quote {
+  margin: 20px auto;
+  width: 55%;
+  height: auto;
+  
+}
+
+#buttons .btn {
+  width: 90px;
+  margin: 0px 10px;
+}
+
+#cpy {
+  position: fixed;
+  left: 25%;
+  bottom: 0;
+}
